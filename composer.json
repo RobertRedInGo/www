@@ -1,5 +1,5 @@
 {
-    "name": "october/oc-demo-plugin",
+    "name": "robertreding/oc-demo-plugin",
     "type": "october-plugin",
     "description": "Demo OctoberCMS plugin",
     "keywords": ["october", "cms", "demo", "plugin"],
